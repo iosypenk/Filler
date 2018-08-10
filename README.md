@@ -22,7 +22,7 @@ example 2: $>./filler_vm -f maps/map01 -p1 ../iosypenk.filler -p2 players/superj
 </div>
 
 
-## Results
+## Output
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/iosypenk/filler/blob/master/screenshots/filler-game-sample.gif" width="100%" />
