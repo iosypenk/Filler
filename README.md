@@ -17,15 +17,15 @@ example 2: $>./filler_vm -f maps/map01 -p1 ../iosypenk.filler -p2 players/superj
 ## Rules
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/iosypenk/filler/blob/master/screenshots/intro.png" width="55%" />
-  <img src="https://github.com/iosypenk/filler/blob/master/screenshots/intro.png" width="55%" />
+  <img src="https://github.com/iosypenk/filler/blob/master/screenshots/intro.png" width="100%" />
+  <img src="https://github.com/iosypenk/filler/blob/master/screenshots/mandatory.png" width="100%" />
 </div>
 
 
 ## Results
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/iosypenk/filler/blob/master/screenshots/filler-game-sample.gif" width="48%" />
+  <img src="https://github.com/iosypenk/filler/blob/master/screenshots/filler-game-sample.gif" width="100%" />
   <br/>
-  <img src="https://github.com/iosypenk/filler/blob/master/screenshots/filler-game-vis-sample.gif" width="48%" />
+  <img src="https://github.com/iosypenk/filler/blob/master/screenshots/filler-game-vis-sample.gif" width="100%" />
 </div>
